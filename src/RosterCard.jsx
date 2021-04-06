@@ -26,7 +26,7 @@ const RosterCard = (props) => {
         title={name}
         subheader={position}
       />
-      <CardMedia style={{ height: "150px" }} image={imageUrl} />
+      <CardMedia style={{ height: "300px" }} image={imageUrl} />
       <CardContent></CardContent>
       <CardActions>
         <Button size="small">LEARN MORE</Button>
