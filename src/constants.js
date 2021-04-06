@@ -127,11 +127,11 @@ export default [
       "https://lebronwire.usatoday.com/wp-content/uploads/sites/37/2019/12/kostas-antetokounmpo-los-angeles-lakers-101419.jpg"
   },
   {
-    name: "Damian Jones, 15",
-    position: "C",
+    name: "Ben McLemore, 16",
+    position: "SG, SF",
     avatarUrl:
-      "https://www.basketball-reference.com/req/202103225/images/players/jonesda03.jpg",
+      "https://www.basketball-reference.com/req/202103225/images/players/mclembe01.jpg",
     imageUrl:
-      "https://s22928.pcdn.co/wp-content/uploads/2021/02/damian-jones-1-1.jpg"
+      "https://rocketswire.usatoday.com/wp-content/uploads/sites/29/2020/03/usatsi_14017559_168382939_lowres-1-e1585253233875.jpg?w=1000&h=600&crop=1"
   }
 ];
