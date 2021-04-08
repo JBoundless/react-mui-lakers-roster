@@ -127,7 +127,7 @@ export default [
       "https://lebronwire.usatoday.com/wp-content/uploads/sites/37/2019/12/kostas-antetokounmpo-los-angeles-lakers-101419.jpg"
   },
   {
-    name: "Ben McLemore, 16",
+    name: "Ben McLemore, 7",
     position: "SG, SF",
     avatarUrl:
       "https://www.basketball-reference.com/req/202103225/images/players/mclembe01.jpg",
